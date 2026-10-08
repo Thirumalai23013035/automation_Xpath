@@ -79,9 +79,10 @@ time.sleep(20)
 
 ## output:
 
-```
+
 <img width="1912" height="1077" alt="Screenshot 2026-10-08 111413" src="https://github.com/user-attachments/assets/8fa46a86-650c-465e-a2ea-846e310bead5" />
+
 <img width="1437" height="1077" alt="Screenshot 2026-10-08 111419" src="https://github.com/user-attachments/assets/69f9045e-6f6d-4590-a787-556bd92349dd" />
 
 
-```
+
